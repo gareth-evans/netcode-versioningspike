@@ -1,0 +1,5 @@
+source http://get.nuget.ttldev
+source https://api.nuget.org/v3/index.json
+
+nuget Microsoft.AspNetCore.All 2.0.0
+clitool Microsoft.VisualStudio.Web.CodeGeneration.Tools 2.0.0
